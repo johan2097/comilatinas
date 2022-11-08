@@ -1,0 +1,23 @@
+.footer{
+    padding-bottom: 0;
+    background: #050505;
+}
+.footer__link_title{
+    color: #fff;
+}
+.link__item{
+    padding-left: 0;
+    background: transparent;
+    color: #c4c4c4;
+}
+.link__item a{
+    color: #c4c4c4;
+}
+.footer__botton{
+  background: #141124;
+  padding: 20px 0px;
+  text-align: center;
+}
+.footer__botton p{
+  font-size: 0.9rem;
+}

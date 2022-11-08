@@ -1,0 +1,43 @@
+.app__container{
+    background-color: #f5870a;
+    border-radius: 10px;
+}
+.app__img{
+    margin-bottom: -100px;
+}
+.app__content h5{
+    color: rgb(17, 17, 17);
+}
+.app__content h2{
+    color: rgb(17, 17, 17);
+    font-weight: 600;
+}
+.app__content{
+    padding-top: 50px;
+}
+.app__container p{
+    color: #fff;
+}
+.btn__apple{
+    background-color:rgb(17, 17, 17) ;
+    border: none;
+    color: #fff;
+    padding: 7px 25px;   
+    border-radius: 5px;
+}
+.btn__google{
+    background: #fff;
+    color: #0a071a;
+    border: none;
+    padding: 7px 25px;
+    border-radius: 5px;
+}
+.btn__google i{
+    color: #0a071a;
+}
+.btn__apple:hover a{
+    color: #fff;
+}
+.btn__google:hover a{
+    color: #0a071a;
+}
